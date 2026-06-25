@@ -1,2 +1,2 @@
 # Calculator
-My first Calculator
+First Calculator with help
